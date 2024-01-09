@@ -8,3 +8,7 @@ This program calculates the costs of monthly and total payments of a given loan 
 -	LoanEntApp - Contains the stateless session bean that connects with the glassfish server to calculate the loans in the LoanBean class with the information received from the client.
 - Enterprise JavaBeans Architecture 
 - JavaFX
+
+## Screenshots
+![image](https://github.com/nasif-mahmood/LoanCalculator/blob/master/Loan1.png)
+![image](https://github.com/nasif-mahmood/LoanCalculator/blob/master/Loan2.png)
